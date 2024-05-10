@@ -9,3 +9,9 @@ body {
 .hide {
     display: none;
 }
+
+a input[type= "submit"] {
+    background-color: blue;
+    color:white;
+    padding: 10px  20px;
+}
